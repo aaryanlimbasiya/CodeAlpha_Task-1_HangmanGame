@@ -21,6 +21,8 @@ Basic Hangman Game:
 
 *Ends the game with a win or loss message.
 
+
+
 Hangman Game with Diagram:
 
 *Includes a visual representation of the hangman using ASCII art.
