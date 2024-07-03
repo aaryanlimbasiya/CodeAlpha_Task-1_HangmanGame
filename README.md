@@ -22,24 +22,6 @@ Basic Hangman Game:
 *Ends the game with a win or loss message.
 
 
-
-Hangman Game with Diagram:
-
-*Includes a visual representation of the hangman using ASCII art.
-
-*Randomly selects a word from a larger predefined list.
-
-*Allows the player to guess letters to uncover the hidden word.
-
-*Provides feedback on correct and incorrect guesses.
-
-*Limits the number of incorrect guesses to 6.
-
-*Displays the current state of the word and the hangman diagram after each guess.
-
-*Ends the game with a win or loss message.
-
-
 # Libraries Used:
 
 random.choice(): Randomly selects a word from a predefined list.
